@@ -34,7 +34,10 @@ Este projeto implementa uma arquitetura completa para processar pedidos em um am
 
 ## Arquitetura
 
-A arquitetura utiliza uma **VPC** criada especificamente para este projeto, organizando os recursos em sub-redes públicas e privadas. O diagrama de arquitetura pode ser encontrado [aqui](#).
+A arquitetura utiliza uma **VPC** criada especificamente para este projeto, organizando os recursos em sub-redes públicas e privadas. O diagrama de arquitetura.
+
+![image](https://github.com/user-attachments/assets/6818b21b-6656-4414-83e7-b51a71379616)
+
 
 ## Fluxo de Dados
 
