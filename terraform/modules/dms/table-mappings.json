@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {
+      "rule-type": "selection",
+      "rule-id": "1",
+      "rule-name": "include-all",
+      "object-locator": {
+        "schema-name": "ecommerce",
+        "table-name": "%"
+      },
+      "rule-action": "include"
+    }
+  ]
+}
+
+
+  

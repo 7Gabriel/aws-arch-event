@@ -1,0 +1,18 @@
+{
+  "TargetMetadata": {
+    "TargetSchema": "",
+    "SupportLobs": true,
+    "FullLobMode": true,
+    "LobChunkSize": 64,
+    "LimitedSizeLobMode": false,
+    "LobMaxSize": 0
+  },
+  "Logging": {
+    "EnableLogging": true
+  },
+  "ControlTablesSettings": {
+    "HistoryTimeslotInMinutes": 5,
+    "ControlSchema": "dbo",
+    "HistoryTableEnabled": true
+  }
+}
